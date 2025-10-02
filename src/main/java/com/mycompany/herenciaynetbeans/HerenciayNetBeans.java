@@ -1,0 +1,16 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ */
+
+package com.mycompany.herenciaynetbeans;
+
+/**
+ *
+ * @author luisb
+ */
+public class HerenciayNetBeans {
+
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }
+}
